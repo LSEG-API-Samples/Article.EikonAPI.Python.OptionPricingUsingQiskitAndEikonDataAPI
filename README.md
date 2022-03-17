@@ -1,4 +1,4 @@
-# [Option Pricing using Qiskit and Eikon Data API]()
+# [Option Pricing using Qiskit and Eikon Data API](https://developers.refinitiv.com/en/article-catalog/article/option-pricing-using-qiskit-and-eikon-data-api)
 
 Financial institutions are testing early use-cases of Quantum Technologies for NP hard problems which are uncertain or difficult to optimize. 
 In this article, we will introduce the financial instruments called options. We are going to introduce the prevailing quantum approach in pricing European Options. 
